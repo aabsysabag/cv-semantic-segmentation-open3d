@@ -1,5 +1,5 @@
 # cv-semantic-segmentation-open3d
-We have experimented with many opensource pretrained model for doing semantic segmentation for our paritucular project based on 3D Lidar pointcloud data.
+We have experimented with many opensource pretrained models for doing semantic segmentation for our paritucular project based on 3D Lidar pointcloud data.
 Best working models are
 - Myria3D
 - cLASpy_T
